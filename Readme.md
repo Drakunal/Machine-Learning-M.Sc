@@ -5,7 +5,7 @@
 ![Commits](https://img.shields.io/github/last-commit/Drakunal/Machine-Learning-M.Sc?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Drakunal/Machine-Learning-M.Sc?color=pink&style=for-the-badge)
 <!-- ![License](https://img.shields.io/github/license/Drakunal/Advanced-Analytics-2023?style=for-the-badge) -->
-![Logo](https://github.com/Drakunal/Machine-Learning-M.Sc/blob/main/logo.png?raw=true)  
+![Logo](https://github.com/Drakunal/Machine-Learning-M.Sc/blob/main/logo.gif?raw=true)  
 # Machine Learning Lab
 
 This repository contains all the labs files for Machine Learning, for M.Sc DSA 2nd Semester Students.  
