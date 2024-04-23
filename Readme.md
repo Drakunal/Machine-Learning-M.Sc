@@ -14,7 +14,7 @@ This repository contains all the labs files for Machine Learning, for M.Sc DSA 2
 
 - [@Drakunal](https://github.com/Drakunal)
 
-# List of Experiments
+# List of Experiments:
 
 1. [Lab 1: KMeans](https://github.com/Drakunal/Machine-Learning-M.Sc/tree/main/Lab%201)
 2. [Lab 2: DBSCAN - 1](https://github.com/Drakunal/Machine-Learning-M.Sc/tree/main/Lab%202)
